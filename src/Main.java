@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+
+
+//    psvm   public static void main(String[] args) {}
+//sout System.out.println();
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -35,6 +40,11 @@ public class Main {
         System.out.println("the array number is "+ myArray[1]);
         System.out.println("the array number is "+ myArray[2]);
 
+
     }
 
+
 }
+
+
+
