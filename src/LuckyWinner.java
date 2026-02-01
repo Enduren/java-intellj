@@ -18,6 +18,8 @@ public class LuckyWinner {
         } else {
             System.out.println("Not this time. Please try again!");
         }
+
+        DayChecker.checkDayType("Monday");
     }
 }
 

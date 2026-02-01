@@ -90,7 +90,12 @@ public class Main {
         System.out.println("Enter age for verification:");
         int userAge = scanner.nextInt();
         checkAccess(userAge); // Calling the method we built above
+
+        DayChecker.checkDayType("Monday");
+
     }
+
+
 
     // This is a reusable block of code.
     public static void checkAccess(int age) {
