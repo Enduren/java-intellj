@@ -8,5 +8,8 @@ public class app {
         computer1.motherboard= "motherboard";
         computer1.RAM= 1024;
         System.out.println(computer1.GPU);
+        System.out.println(computer1.Harddisk);
+        System.out.println(computer1.motherboard);
+        System.out.println(computer1.RAM);
     }
 }
