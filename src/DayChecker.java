@@ -13,7 +13,7 @@ public class DayChecker {
             switch (day.toLowerCase().trim()) {
                 case "saturday":
                 case "sunday":
-                    System.out.println(day + "WE ARE OFF!");
+                    System.out.println(day + "OFF Days!");
                     break;
 
                 case "monday":
